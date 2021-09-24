@@ -1,3 +1,3 @@
 # todo-list-JavaScript
 
-todo JS Exercise
+todo list JS Exercise
